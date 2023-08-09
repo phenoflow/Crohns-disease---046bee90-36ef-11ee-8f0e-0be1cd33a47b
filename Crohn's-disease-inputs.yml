@@ -1,0 +1,36 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/crohn's-disease---primary.py
+inputModule3:
+  class: File
+  path: python/crohn's-disease-enteritis---primary.py
+inputModule4:
+  class: File
+  path: python/crohn's---primary.py
+inputModule5:
+  class: File
+  path: python/small-crohn's-disease---primary.py
+inputModule6:
+  class: File
+  path: python/crohn's-disease-ileum---primary.py
+inputModule7:
+  class: File
+  path: python/crohn's-disease-intestine---primary.py
+inputModule8:
+  class: File
+  path: python/large-crohn's-disease---primary.py
+inputModule9:
+  class: File
+  path: python/regional-crohn's-disease---primary.py
+inputModule10:
+  class: File
+  path: python/crohn's-disease-index---primary.py
+inputModule11:
+  class: File
+  path: python/crohn's-disease-[regional-enteritis]-crohn's---secondary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
